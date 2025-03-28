@@ -1,4 +1,4 @@
-# Company Classifier Notebook
+# Company Classifier
 
 ## Short description
 This notebook performs **automatic business classification** for insurance-related companies using **cosine similarity** and **Sentence Transformers**. It assigns taxonomy labels to businesses based on their descriptions, industry sector, and other relevant attributes. The final output is a CSV file containing classified companies.
