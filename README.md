@@ -58,5 +58,5 @@ This notebook provides an **efficient way to classify companies** without superv
 
 ---
 
-## 8. Execution Environment  
+## Execution Environment  
 The notebook was executed in **Google Colab** to leverage cloud-based resources for faster processing.
