@@ -55,3 +55,8 @@ This notebook provides an **efficient way to classify companies** without superv
 - **Fine-tuning the threshold selection** to improve label accuracy.
 - **Evaluating performance metrics** to validate classification quality.
 - **Exploring alternative similarity measures** (e.g., Euclidean distance, Pearson correlation).
+
+---
+
+## 8. Execution Environment  
+The notebook was executed in **Google Colab** to leverage cloud-based resources for faster processing.
